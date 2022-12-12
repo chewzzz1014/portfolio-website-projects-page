@@ -21,7 +21,7 @@ const projectData = [
             {
                 name: 'Cryptocurrencies Prices Visulization',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Visulize cryptocurrencies prices from public API and download them as Excel files using Pandas library.',
+                desc: 'Visualize cryptocurrencies prices from public API and download them as Excel files using Pandas library.',
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/cryptocurrencies-prices/cryptocurrencies-prices.ipynb',
                 pageLink: ''
             },

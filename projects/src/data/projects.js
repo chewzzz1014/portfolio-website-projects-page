@@ -23,6 +23,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/counter',
                 pageLink: 'https://chewzzz-counter.netlify.app/',
             },
+            {
+                name: 'Leave Your Comment',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-4.png',
+                desc: 'A simple responsive counter. Crated using HTML, Boostrap and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/form_events',
+                pageLink: 'https://chewzzz-form-events.netlify.app/',
+            },
         ]
     },
     {

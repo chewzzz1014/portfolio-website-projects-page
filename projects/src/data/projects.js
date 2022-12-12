@@ -37,6 +37,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/jokes_api',
             },
             {
+                name: 'TV Show API',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-11.png',
+                desc: 'Fetch random dad jokes from API using axios. Created using HTML and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/jokes_api',
+                pageLink: 'https://chewzzz-tvshow-api.netlify.app/'
+            },
+            {
                 name: 'Museum of Candy',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-6.png',
                 desc: 'A responsive aesthetic website. Created using HTML, CSS and Boostrap.',

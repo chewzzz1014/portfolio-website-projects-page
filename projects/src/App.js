@@ -18,6 +18,7 @@ import Nav from './components/Nav';
 import Footer from './components/Footer';
 import { BsArrowUpRight } from 'react-icons/bs';
 import { MdOutlineExpandMore } from 'react-icons/md';
+import { DiHtml5 } from 'react-icons/di';
 import { Shake } from 'reshake'
 
 const buttonStyle = {
@@ -46,7 +47,9 @@ function App() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography color='white'>{ele.name}</Typography>
+          <Typography color='white'>
+            {ele.name}
+          </Typography>
         </AccordionSummary>
         <AccordionDetails sx={{ backgroundColor: '#242424' }}>
           <Box sx={{ flexGrow: 1 }}>

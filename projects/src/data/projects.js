@@ -1,6 +1,7 @@
 const projectData = [
     {
         name: 'HTML, CSS and JavaScript DOM Projects',
+        icons: ['DiHtml5'],
         project: [
             {
                 name: 'Etch-a-Sketch',
@@ -92,11 +93,6 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_recipe',
                 pageLink: 'https://chewzzz-top-recipe.netlify.app/'
             },
-        ]
-    },
-    {
-        name: 'Boostrap',
-        project: [
             {
                 name: 'Boostrap Form',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/boostrap-1.png',
@@ -107,7 +103,21 @@ const projectData = [
         ]
     },
     {
+        name: 'React',
+        icons: [''],
+        project: [
+            {
+                name: 'Airbnb Clone',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-1.png',
+                desc: 'Created a simple responsive boostrap form without CSS.',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/airbnb-clone',
+                pageLink: 'https://chewzzz-airbnb-clone.netlify.app/',
+            },
+        ]
+    },
+    {
         name: 'Data Analyst Projects',
+        icons: [''],
         project: [
             {
                 name: 'Anime Recommendations and Ratings',
@@ -164,6 +174,7 @@ const projectData = [
     },
     {
         name: 'UX Design Projects',
+        icons: [''],
         project: [
             {
                 name: 'Trailer Browsing Mobile Application',

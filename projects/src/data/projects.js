@@ -109,9 +109,16 @@ const projectData = [
             {
                 name: 'Airbnb Clone',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-1.png',
-                desc: 'Created a simple responsive boostrap form without CSS.',
+                desc: 'Responsive airbnb clone. Created with React and CSS.',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/airbnb-clone',
                 pageLink: 'https://chewzzz-airbnb-clone.netlify.app/',
+            },
+            {
+                name: 'Digital Business Card',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-2.png',
+                desc: 'Responsive personal business card. Created with React and CSS.',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/digital-business-card',
+                pageLink: 'https://chewzzz-digital-business-card.netlify.app/',
             },
         ]
     },

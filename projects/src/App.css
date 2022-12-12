@@ -126,3 +126,10 @@ footer {
     position: relative;
   }
 }
+
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-item {}

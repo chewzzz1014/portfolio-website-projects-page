@@ -53,8 +53,8 @@ function App() {
             <Grid container spacing={2}>
               {ele.project.map((p) => {
                 return (
-                  <Grid item xs={12} sm={6} md={3}>
-                    <Card sx={{ maxWidth: 345 }} >
+                  <Grid item xs={12} sm={6} md={3} className='card-container'>
+                    <Card sx={{ maxWidth: 345 }} className='card-item'>
                       <CardMedia
                         component="img"
                         height="140"

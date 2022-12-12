@@ -12,9 +12,16 @@ const projectData = [
             {
                 name: 'Color Generator',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-2.png',
-                desc: 'Paint on boxed canvas by hovering on them. Crated using HTML, CSS and JS Dom.',
-                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
-                pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
+                desc: 'Generate card with random colour. Crated using HTML, Boostrap and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/color_generator',
+                pageLink: 'https://chewzzz-color-generator.netlify.app/',
+            },
+            {
+                name: 'Counter',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-3.png',
+                desc: 'A simple responsive counter. Crated using HTML, Boostrap and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/counter',
+                pageLink: 'https://chewzzz-counter.netlify.app/',
             },
         ]
     },

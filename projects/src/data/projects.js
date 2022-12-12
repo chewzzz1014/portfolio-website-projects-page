@@ -73,7 +73,7 @@ const projectData = [
             },
             {
                 name: 'Score Keeper',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-9.png',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@23fb878b0b0daa768f5db8871b0f1c2dbf874009/projects/src/images/js-9.png',
                 desc: 'A simple game score counter. Created using HTML, Bulma and JS Dom.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/score_keeper',
                 pageLink: 'https://chewzzz-score-keeper.netlify.app/'

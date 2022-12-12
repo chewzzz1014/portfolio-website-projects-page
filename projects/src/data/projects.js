@@ -67,9 +67,16 @@ const projectData = [
             {
                 name: 'Score Keeper',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-9.png',
-                desc: 'Rock, paper scissors game created using HTML, CSS, Boostrap and JS Dom.',
+                desc: 'A simple game score counter created using HTML, Bulma and JS Dom.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/score_keeper',
                 pageLink: 'https://chewzzz-score-keeper.netlify.app/'
+            },
+            {
+                name: 'Calculator',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-10.png',
+                desc: 'A simple calculator created using HTML, CSS, Boostrap and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_calculator',
+                pageLink: 'https://chewzzz-top-calculator.netlify.app/'
             },
         ]
     },

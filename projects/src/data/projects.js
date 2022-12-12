@@ -4,13 +4,25 @@ const projectData = [
         project: [
             {
                 name: 'Etch-a-Sketch',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-1.png',
-                desc: 'Paint on boxed canvas by hovering on them. Crated using HTML, CSS and JS Dom',
-                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
-                pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/boostrap-1.png',
+                desc: 'Paint on boxed canvas by hovering on them. Crated using HTML, CSS and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/bootstrap_form',
+                pageLink: 'https://chewzzz-boostrap-form.netlify.app/',
             },
         ]
     },
+    , {
+        name: 'Boostrap',
+        project: [
+            {
+                name: 'Boostrap Form',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-1.png',
+                desc: 'Paint on boxed canvas by hovering on them. Crated using HTML, CSS and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
+                pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
+            }
+        ]
+    }
     {
         name: 'Data Analyst Projects',
         project: [

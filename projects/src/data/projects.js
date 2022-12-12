@@ -33,8 +33,15 @@ const projectData = [
             {
                 name: 'Jokes Generator',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-5.png',
-                desc: 'Fetch random dad jokes from API using axios. Created using HTML and and JS Dom.',
+                desc: 'Fetch random dad jokes from API using axios. Created using HTML and JS Dom.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/jokes_api',
+            },
+            {
+                name: 'Museum of Candy',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-6.png',
+                desc: 'A responsive aesthetic website. Created using HTML, CSS and Boostrap.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/museum_of_candy',
+                pageLink: ''
             },
         ]
     },

@@ -64,6 +64,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/rock_paper_scissors',
                 pageLink: 'https://chewzzz-rock-paper-scissors.netlify.app/'
             },
+            {
+                name: 'Score Keeper',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-9.png',
+                desc: 'Rock, paper scissors game created using HTML, CSS, Boostrap and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/score_keeper',
+                pageLink: 'https://chewzzz-score-keeper.netlify.app/'
+            },
         ]
     },
     {

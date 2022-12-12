@@ -62,8 +62,8 @@ function App() {
                         alt="green iguana"
                       />
                       <CardContent>
-                        <Typography gutterBottom variant="h5" component="div">
-                          {p.name}
+                        <Typography gutterBottom variant="h5" component="div" style={{ textAlign: 'center' }}>
+                          <b>{p.name}</b>
                         </Typography>
                         <Typography variant="body2" color='black'>
                           {p.desc}

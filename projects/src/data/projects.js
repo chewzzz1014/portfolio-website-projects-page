@@ -39,6 +39,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Demographic-Data-Analyzer',
                 pageLink: ''
             },
+            {
+                name: 'Medical Data Visualizer',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-6.png',
+                desc: 'Visualising and make calculations from medical examination data using Matplotlib, Seaborn, and Pandas library. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Medical-Data-Visualizer',
+                pageLink: ''
+            },
         ]
     },
     {

@@ -46,6 +46,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Medical-Data-Visualizer',
                 pageLink: ''
             },
+            {
+                name: 'Pages View Time Series Visualizer',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-7.png',
+                desc: 'Visualize time series data of number of page views each day on the freeCodeCamp.org forum for a given period. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Page-View-Time-Series-Visualizer',
+                pageLink: ''
+            },
         ]
     },
     {

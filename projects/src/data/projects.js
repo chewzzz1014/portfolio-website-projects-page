@@ -1,5 +1,17 @@
 const projectData = [
     {
+        name: 'HTML, CSS and JavaScript DOM Projects',
+        project: [
+            {
+                name: 'Etch-a-Sketch',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-1.png',
+                desc: 'Paint on boxed canvas by hovering on them. Crated using HTML, CSS and JS Dom',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
+                pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
+            },
+        ]
+    },
+    {
         name: 'Data Analyst Projects',
         project: [
             {
@@ -76,18 +88,5 @@ const projectData = [
             },
         ]
     },
-    {
-        name: 'Front End Projects',
-        project: [
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/',
-            },
-        ]
-    },
-
 ]
 export default projectData

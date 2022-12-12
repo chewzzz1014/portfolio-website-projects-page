@@ -59,7 +59,7 @@ function App() {
                         component="img"
                         height="140"
                         image={p.imgLink}
-                        alt="green iguana"
+                        alt="project img"
                       />
                       <CardContent>
                         <Typography gutterBottom variant="h5" component="div" style={{ textAlign: 'center' }}>

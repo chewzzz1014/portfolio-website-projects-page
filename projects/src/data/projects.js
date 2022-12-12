@@ -67,7 +67,7 @@ const projectData = [
             {
                 name: 'Rock Paper Scissors',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@ed5cd87d783affd025bd23da9d85a4d0513cab12/projects/src/images/js-8.png',
-                desc: 'Rock, paper and scissors game. Created using HTML, CSS, Boostrap and JS Dom.',
+                desc: 'Rock, paper and scissors game. Created using HTML, CSS, Boostrap and JS Dom. One of projects for The Odin Project Web Development Course.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/rock_paper_scissors',
                 pageLink: 'https://chewzzz-rock-paper-scissors.netlify.app/'
             },
@@ -81,9 +81,16 @@ const projectData = [
             {
                 name: 'Calculator',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-10.png',
-                desc: 'A simple responsive calculator. Created using HTML, CSS, Boostrap and JS Dom.',
+                desc: 'A simple responsive calculator. Created using HTML, CSS, Boostrap and JS Dom. One of projects for The Odin Project Web Development Course.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_calculator',
                 pageLink: 'https://chewzzz-top-calculator.netlify.app/'
+            },
+            {
+                name: 'Recipe Page',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-12.png',
+                desc: 'My first project of The Odin Project Web Development Course. Created using HTML, CSS and JS.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_recipe',
+                pageLink: 'https://chewzzz-top-recipe.netlify.app/'
             },
         ]
     },

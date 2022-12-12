@@ -4,7 +4,7 @@ const projectData = [
         project: [
             {
                 name: 'Anime Recommendations and Ratings',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-1.png',
                 desc: 'Perform EDA on anime recommendations dataset from Kaggle to determine which anime genre and anime type has highest rating using Pandas library.',
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/anime/anime.ipynb',
                 pageLink: '',
@@ -13,14 +13,14 @@ const projectData = [
             },
             {
                 name: 'Netflix Original Films and IMDB Scores',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-2.png',
                 desc: 'Perform data cleaning, EDA and visualization on the movies IMDB Scores dataset from Kaggle using Pandas library. Course project for the course Data Analysis with Python: Zero to Pandas',
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/movies-imdb/project-imdb-score.ipynb',
                 pageLink: ''
             },
             {
                 name: 'Cryptocurrencies Prices Visulization',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-3.png',
                 desc: 'Visualize cryptocurrencies prices from public API and download them as Excel files using Pandas library.',
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/cryptocurrencies-prices/cryptocurrencies-prices.ipynb',
                 pageLink: ''

@@ -57,6 +57,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/pricing_panel',
                 pageLink: 'https://chewzzz-pricing-panel.netlify.app/'
             },
+            {
+                name: 'Rock Paper Scissors',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-8.png',
+                desc: 'Rock, paper scissors game created using HTML, CSS, Boostrap and JS Dom.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/rock_paper_scissors',
+                pageLink: 'https://chewzzz-rock-paper-scissors.netlify.app/'
+            },
         ]
     },
     {

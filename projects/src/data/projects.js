@@ -32,6 +32,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Mean-Variance-Standard_Deviation_Calculator',
                 pageLink: ''
             },
+            {
+                name: 'Demographic Data Analyzer',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-5.png',
+                desc: 'Extracting demographic information based on analysis on the given dataset using Pandas library. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Demographic-Data-Analyzer',
+                pageLink: ''
+            },
         ]
     },
     {

@@ -41,7 +41,14 @@ const projectData = [
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-6.png',
                 desc: 'A responsive aesthetic website. Created using HTML, CSS and Boostrap.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/museum_of_candy',
-                pageLink: ''
+                pageLink: 'https://chewzzz-museum-of-candy.netlify.app/'
+            },
+            {
+                name: 'Pokemon Icons',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-7.png',
+                desc: 'Generate 100 pokemon icons using JS DOM.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/pokemon_icon',
+                pageLink: 'https://chewzzz-pokemon-icon.netlify.app/'
             },
         ]
     },

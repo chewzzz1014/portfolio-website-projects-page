@@ -65,7 +65,7 @@ function App() {
                         <Typography gutterBottom variant="h5" component="div" style={{ textAlign: 'center' }}>
                           <b>{p.name}</b>
                         </Typography>
-                        <Typography variant="body2" color='black'>
+                        <Typography variant="body2" color='black' style={{ textAlign: 'justify' }}>
                           {p.desc}
                         </Typography>
                       </CardContent>

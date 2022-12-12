@@ -123,9 +123,16 @@ const projectData = [
             {
                 name: 'Digital Business Card',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-3.png',
-                desc: 'Responsive personal business card. Created with React and CSS.',
+                desc: 'A fun meme generator with customised caption. Created with React and CSS.',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/meme-generator',
                 pageLink: 'https://chewzzz-meme-generator.netlify.app/',
+            },
+            {
+                name: 'Random Quote Machine',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-4.png',
+                desc: 'Generate random positive quote with random background colour. Created with React and CSS.',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/random-quote-machine',
+                pageLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/random-quote-machine',
             },
         ]
     },

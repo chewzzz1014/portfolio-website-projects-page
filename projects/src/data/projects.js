@@ -25,6 +25,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/cryptocurrencies-prices/cryptocurrencies-prices.ipynb',
                 pageLink: ''
             },
+            {
+                name: 'Mean Variance Standard Deviation Calculator',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/data-analyst-4.png',
+                desc: 'Calculate the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Mean-Variance-Standard_Deviation_Calculator',
+                pageLink: ''
+            },
         ]
     },
     {

@@ -135,11 +135,11 @@ const projectData = [
                 pageLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/random-quote-machine',
             },
             {
-                name: 'React Fact',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-5.png',
-                desc: 'My first React project. A static React fact website with toggleable dark theme and light theme. Created with React and CSS.',
+                name: 'React Form',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-6.png',
+                desc: 'Simple react form that displays user inputs. Created with React and CSS.',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/react-form',
-                pageLink: 'https://chewzzz-react-fact.netlify.app/',
+                pageLink: 'https://chewzzz-react-form.netlify.app/',
             },
         ]
     },

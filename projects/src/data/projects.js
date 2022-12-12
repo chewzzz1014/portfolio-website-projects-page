@@ -46,9 +46,16 @@ const projectData = [
             {
                 name: 'Pokemon Icons',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-7.png',
-                desc: 'Generate 100 pokemon icons using JS DOM.',
+                desc: 'Generate 100 pokemon icons using JS DOM and Boostrap.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/pokemon_icon',
                 pageLink: 'https://chewzzz-pokemon-icon.netlify.app/'
+            },
+            {
+                name: 'Pricing Panel Clone',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/boostrap-2.png',
+                desc: 'A responsive pricing panel clone created using HTML and CSS.',
+                srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/pricing_panel',
+                pageLink: 'https://chewzzz-pricing-panel.netlify.app/'
             },
         ]
     },
@@ -61,7 +68,7 @@ const projectData = [
                 desc: 'Created a simple responsive boostrap form without CSS.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/bootstrap_form',
                 pageLink: 'https://chewzzz-boostrap-form.netlify.app/',
-            }
+            },
         ]
     },
     {

@@ -56,14 +56,15 @@ const projectData = [
         ]
     },
     {
-        name: 'Front End Projects',
+        name: 'UX Design Projects',
         project: [
             {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
+                name: 'Trailer Browsing Mobile Application',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/UX-1.png',
+                desc: 'Low fidelity prototype for trailer browsing application using Figma.',
+                externalSite: 'Figma',
+                externalLink: 'https://www.figma.com/file/q7u1AzIBAAsm09CK6P8mgx/Trailer-Browsing-App?node-id=7%3A47&t=zCqP438nPFSGvimv-0',
+                demoLink: "https://www.figma.com/proto/q7u1AzIBAAsm09CK6P8mgx/Trailer-Browsing-App?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"
             },
 
         ]
@@ -76,7 +77,7 @@ const projectData = [
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
                 desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
+                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/',
             },
         ]
     },

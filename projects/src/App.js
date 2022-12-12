@@ -71,7 +71,8 @@ function App() {
                       </CardContent>
                       <CardActions>
                         <Button size="small" sx={buttonStyle}><a href={p.srcLink} target='_blank'>Source Code<BsArrowUpRight /></a></Button>
-                        <Button size="small" sx={buttonStyle}><a href={p.pageLink} target='_blank' >Live Site <BsArrowUpRight /></a></Button>
+                        {p.pageLink && <Button size="small" sx={buttonStyle}><a href={p.pageLink} target='_blank' >Live Site <BsArrowUpRight /></a></Button>}
+                        {p.externalLink && <Button size="small" sx={buttonStyle}><a href={p.externalLink} target='_blank' >View on {p.externalSite} <BsArrowUpRight /></a></Button>}
                       </CardActions>
                     </Card>
                   </Grid>

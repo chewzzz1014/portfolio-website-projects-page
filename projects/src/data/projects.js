@@ -1,49 +1,30 @@
 const projectData = [
     {
-        name: 'Front End Projects',
+        name: 'Data Analyst Projects',
         project: [
             {
-                name: 'Exercise Tracker',
+                name: 'Anime Recommendations and Ratings',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
+                desc: 'Perform EDA on anime recommendations dataset from Kaggle to determine which anime genre and anime type has highest rating using Pandas library.',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/anime/anime.ipynb',
+                pageLink: '',
+                externalSite: 'Kaggle',
+                externalLink: 'https://www.kaggle.com/code/chewziqing/anime-data-set/notebook'
             },
             {
-                name: 'Exercise Tracker',
+                name: 'Netflix Original Films and IMDB Scores',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
+                desc: 'Perform data cleaning, EDA and visualization on the movies IMDB Scores dataset from Kaggle using Pandas library. Course project for the course Data Analysis with Python: Zero to Pandas',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/movies-imdb/project-imdb-score.ipynb',
+                pageLink: ''
             },
             {
-                name: 'Exercise Tracker',
+                name: 'Cryptocurrencies Prices Visulization',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
+                desc: 'Visulize cryptocurrencies prices from public API and download them as Excel files using Pandas library.',
+                srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/cryptocurrencies-prices/cryptocurrencies-prices.ipynb',
+                pageLink: ''
             },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            }
         ]
     },
     {
@@ -56,41 +37,7 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
                 pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
             },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            }
+
         ]
     },
     {
@@ -103,41 +50,6 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
                 pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
             },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            },
-            {
-                name: 'Exercise Tracker',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/file/portfolio-imgs/exercies.png',
-                desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus voluptatem minima ducimus explicabo, vero, sunt recusandae aspernatur fuga ratione, rerum quibusdam dicta est. Reprehenderit omnis delectus esse dicta cupiditate error.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
-                pageLink: 'https://boilerplate-project-exercisetracker.chewzi1.repl.co/'
-            }
         ]
     },
 

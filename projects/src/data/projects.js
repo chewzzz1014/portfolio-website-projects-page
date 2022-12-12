@@ -80,7 +80,7 @@ const projectData = [
             },
             {
                 name: 'Calculator',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-10.png',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@23fb878b0b0daa768f5db8871b0f1c2dbf874009/projects/src/images/js-10.png',
                 desc: 'A simple responsive calculator. Created using HTML, CSS, Boostrap and JS Dom. One of projects for The Odin Project Web Development Course.',
                 srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_calculator',
                 pageLink: 'https://chewzzz-top-calculator.netlify.app/'

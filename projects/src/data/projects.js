@@ -177,7 +177,7 @@ const projectData = [
             },
             {
                 name: 'File Metadata Microservice',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-2.png',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@edf37b82f0882546aa161cf4a3cd474334c3d19e/projects/src/images/express-2.png',
                 desc: '',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/File-Metadata-Microservice',
                 pageLink: '',

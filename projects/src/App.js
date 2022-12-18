@@ -27,6 +27,7 @@ const buttonStyle = {
   backgroundColor: 'white',
   color: 'black',
   borderRadius: '0.5em',
+  fontWeight: 'bold'
 }
 
 const accordionBarStyle = {
@@ -74,9 +75,10 @@ function App() {
                       </CardContent>
                       <CardActions>
                         {p.srcLink && <Button size="small" sx={buttonStyle}><a href={p.srcLink} target='_blank'>Source Code<BsArrowUpRight /></a></Button>}
-                        {p.pageLink && <Button size="small" sx={buttonStyle}><a href={p.pageLink} target='_blank' >Live Site <BsArrowUpRight /></a></Button>}
+                        {p.pageLink && <Button size="small" sx={buttonStyle}><a href={p.pageLink} target='_blank' > Live Site<BsArrowUpRight /></a></Button>}
                         {p.externalLink && <Button size="small" sx={buttonStyle}><a href={p.externalLink} target='_blank' >View on {p.externalSite} <BsArrowUpRight /></a></Button>}
                         {p.demoLink && <Button size="small" sx={buttonStyle}><a href={p.demoLink} target='_blank' >Demo<BsArrowUpRight /></a></Button>}
+                        {p.specialTxt && <Button size="small" sx={buttonStyle}>{p.specialTxt}</Button>}
                       </CardActions>
                     </Card>
                   </Grid>

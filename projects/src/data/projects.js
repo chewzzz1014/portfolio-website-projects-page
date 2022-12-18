@@ -171,9 +171,10 @@ const projectData = [
             {
                 name: 'Exercise Tracker',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-1.png',
-                desc: '',
+                desc: 'Make ',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
                 pageLink: '',
+                specialTxt: 'Deployment in Progress!'
             },
             {
                 name: 'File Metadata Microservice',
@@ -181,6 +182,7 @@ const projectData = [
                 desc: '',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/File-Metadata-Microservice',
                 pageLink: '',
+                specialTxt: 'Deployment in Progress!'
             },
             {
                 name: 'Request Header Parser Microservice',
@@ -188,6 +190,7 @@ const projectData = [
                 desc: '',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Request-Header-Parser-Microservice',
                 pageLink: '',
+                specialTxt: 'Deployment in Progress!',
             },
             {
                 name: 'Timestamp Microservice',
@@ -195,6 +198,7 @@ const projectData = [
                 desc: '',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Timestamp-Microservice',
                 pageLink: '',
+                specialTxt: 'Deployment in Progress!'
             },
             {
                 name: 'URL Shortener Microservice',
@@ -202,6 +206,7 @@ const projectData = [
                 desc: '',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/URL-Shortener-Microservice',
                 pageLink: '',
+                specialTxt: 'Deployment in Progress!'
             },
         ]
     },

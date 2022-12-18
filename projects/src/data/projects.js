@@ -176,11 +176,11 @@ const projectData = [
                 pageLink: '',
             },
             {
-                name: 'Travel Journal',
+                name: 'Filr Metadata Microservice',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-8.png',
                 desc: 'Responsive travel location website created with React and CSS.',
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/travel-journal',
-                pageLink: 'https://chewzzz-travel-journal.netlify.app/',
+                pageLink: '',
             },
         ]
     },

@@ -176,10 +176,10 @@ const projectData = [
                 pageLink: '',
             },
             {
-                name: 'Filr Metadata Microservice',
-                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-8.png',
-                desc: 'Responsive travel location website created with React and CSS.',
-                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/travel-journal',
+                name: 'File Metadata Microservice',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-2.png',
+                desc: '',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/File-Metadata-Microservice',
                 pageLink: '',
             },
         ]

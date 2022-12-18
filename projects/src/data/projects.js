@@ -169,6 +169,13 @@ const projectData = [
         icons: [],
         project: [
             {
+                name: 'Exercise Tracker',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-1.png',
+                desc: '',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
+                pageLink: '',
+            },
+            {
                 name: 'Travel Journal',
                 imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-8.png',
                 desc: 'Responsive travel location website created with React and CSS.',

@@ -208,6 +208,14 @@ const projectData = [
                 pageLink: '',
                 specialTxt: 'Deployment in Progress!'
             },
+            {
+                name: 'Node Passport Authentication',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-6.png',
+                desc: '',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/node-passport-authentication',
+                pageLink: '',
+                specialTxt: 'Deployment in Progress!'
+            },
         ]
     },
     {

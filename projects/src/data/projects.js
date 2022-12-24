@@ -162,6 +162,13 @@ const projectData = [
                 srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/travel-journal',
                 pageLink: 'https://chewzzz-travel-journal.netlify.app/',
             },
+            {
+                name: 'Expense Tracker',
+                imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-9.png',
+                desc: 'Simple expense tracker app created with React and CSS. User can add and delete transaction history items.',
+                srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/expense-tracker',
+                pageLink: 'https://chewzzz-expense-tracker-react.netlify.app/',
+            },
         ]
     },
     {

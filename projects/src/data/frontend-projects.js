@@ -3,13 +3,6 @@ export default {
     icons: [''],
     project: [
         {
-            name: 'Ninja Food',
-            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/frontend-1.png',
-            desc: 'Resonsive recipe website created using HTML and Tailwind. My first project using Tailwind.',
-            srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/ninjafood-tailwind',
-            pageLink: 'https://chewzzz-ninjafood-tailwind.netlify.app/'
-        },
-        {
             name: 'Museum of Candy',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-6.png',
             desc: 'A responsive aesthetic website. Created using HTML, CSS and Boostrap.',
@@ -22,6 +15,13 @@ export default {
             desc: 'A responsive pricing panel clone. Created using HTML and CSS.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/pricing_panel',
             pageLink: 'https://chewzzz-pricing-panel.netlify.app/'
+        },
+        {
+            name: 'Ninja Food',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/frontend-1.png',
+            desc: 'Resonsive recipe website created using HTML and Tailwind. My first project using Tailwind.',
+            srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/ninjafood-tailwind',
+            pageLink: 'https://chewzzz-ninjafood-tailwind.netlify.app/'
         },
     ]
 }

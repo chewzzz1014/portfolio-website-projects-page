@@ -1,4 +1,4 @@
-import tailwindProject from "./tailwind-project"
+import frontendProjects from "./frontend-projects"
 import cssJsProjects from "./css-js-projects"
 import reactProjects from "./react-projects"
 import expressProjects from "./express-projects"
@@ -7,8 +7,8 @@ import uxDesignProjects from "./ux-design-projects"
 import moocFullStackProjects from "./mooc-full-stack-projects"
 
 const projectData = [
-    tailwindProject,
     cssJsProjects,
+    frontendProjects,
     reactProjects,
     expressProjects,
     dataAnalystProjects,

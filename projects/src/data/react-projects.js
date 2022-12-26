@@ -1,5 +1,5 @@
 export default {
-    name: 'React',
+    name: 'React Projects',
     icons: [''],
     project: [
         {

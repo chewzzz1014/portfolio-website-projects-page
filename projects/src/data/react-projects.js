@@ -68,9 +68,9 @@ export default {
         {
             name: 'Quizzical Game',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-10.png',
-            desc: 'Simple expense tracker app created with React and CSS. User can add and delete transaction history items.',
-            srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/expense-tracker',
-            pageLink: 'https://chewzzz-expense-tracker-react.netlify.app/',
+            desc: 'Fetch quizzes of various domains using API for creating this simple Quizzial game. Created using React and CSS.',
+            srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/quizzical-app',
+            pageLink: 'https://chewzzz-quizzical-game.netlify.app/',
         }
     ]
 }

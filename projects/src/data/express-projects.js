@@ -20,7 +20,7 @@ export default {
         },
         {
             name: 'Request Header Parser Microservice',
-            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-3.png',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@76c448262a01037d5a1e3865dc3c89dc93a70c09/projects/src/images/express-3.png',
             desc: '',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Request-Header-Parser-Microservice',
             pageLink: '',
@@ -28,7 +28,7 @@ export default {
         },
         {
             name: 'Timestamp Microservice',
-            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-4.png',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@76c448262a01037d5a1e3865dc3c89dc93a70c09/projects/src/images/express-4.png',
             desc: '',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Timestamp-Microservice',
             pageLink: '',

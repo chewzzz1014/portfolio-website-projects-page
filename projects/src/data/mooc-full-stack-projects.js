@@ -10,13 +10,6 @@ export default {
             pageLink: 'https://chewzzz-mooc-anecdotes.netlify.app/'
         },
         {
-            name: 'Course Info',
-            imgLink: '',
-            desc: 'Part 1 Introduction to React exercises. A simple React program that calculate course information',
-            srcLink: 'https://github.com/chewzzz1014/MoocFi-Full-Stack-Open-2022/tree/master/part1/courseinfo',
-            pageLink: ''
-        },
-        {
             name: 'Unicafe',
             imgLink: '',
             desc: 'Part 1 Introduction to React exercises. A simple React program that calculates feedback statictics.',

@@ -5,8 +5,22 @@ export default {
         {
             name: 'Anecdotes',
             imgLink: '',
-            desc: 'Part 1 Introduction to React exercises. A simple React program that uses React hook',
+            desc: 'Part 1 Introduction to React exercises. A simple React program that displays anecdotes and their votes.',
             srcLink: 'https://github.com/chewzzz1014/MoocFi-Full-Stack-Open-2022/tree/master/part1/anecdotes',
+            pageLink: ''
+        },
+        {
+            name: 'Course Info',
+            imgLink: '',
+            desc: 'Part 1 Introduction to React exercises. A simple React program that calculate course information',
+            srcLink: 'https://github.com/chewzzz1014/MoocFi-Full-Stack-Open-2022/tree/master/part1/courseinfo',
+            pageLink: ''
+        },
+        {
+            name: 'Unicafe',
+            imgLink: '',
+            desc: 'Part 1 Introduction to React exercises. A simple React program that calculates feedback statictics.',
+            srcLink: 'https://github.com/chewzzz1014/MoocFi-Full-Stack-Open-2022/tree/master/part1/unicafe',
             pageLink: ''
         },
     ]

@@ -11,10 +11,10 @@ export default {
         },
         {
             name: 'Unicafe',
-            imgLink: '',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/mooc-2.png',
             desc: 'Part 1 Introduction to React exercises. A simple React program that calculates feedback statictics.',
             srcLink: 'https://github.com/chewzzz1014/MoocFi-Full-Stack-Open-2022/tree/master/part1/unicafe',
-            pageLink: ''
+            pageLink: 'https://chewzzz-mooc-unicafe.netlify.app/'
         },
     ]
 }

@@ -36,9 +36,9 @@ const accordionBarStyle = {
 }
 
 
-export const dataElements = projectData.map((ele) => {
+export const dataElements = projectData.map((ele, idx) => {
     return (
-        <Accordion sx={accordionBarStyle}>
+        <Accordion sx={accordionBarStyle} key={idx}>
             <AccordionSummary
                 expandIcon={<MdOutlineExpandMore color='white' size='40px' />}
                 aria-controls="panel2a-content"
@@ -51,9 +51,9 @@ export const dataElements = projectData.map((ele) => {
             <AccordionDetails sx={{ backgroundColor: '#242424' }}>
                 <Box sx={{ flexGrow: 1 }}>
                     <Grid container spacing={2}>
-                        {ele.project.map((p) => {
+                        {ele.project.map((p, idx2) => {
                             return (
-                                <Grid item xs={12} sm={6} md={3} className='card-container'>
+                                <Grid item xs={12} sm={6} md={3} className='card-container' key={`${idx}-${idx2}`}>
                                     <Card sx={{ maxWidth: 345 }} className='card-item'>
                                         <CardMedia
                                             component="img"

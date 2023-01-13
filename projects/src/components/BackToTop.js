@@ -1,9 +1,11 @@
+// for MUI scroll to top icon and utils
 import * as React from 'react';
 import Toolbar from '@mui/material/Toolbar';
 import Fab from '@mui/material/Fab';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import ScrollTop from './ScrollTop';
 
+// react components
 import Nav from './Nav'
 import Logo from './logo'
 import { dataElements } from './Main'

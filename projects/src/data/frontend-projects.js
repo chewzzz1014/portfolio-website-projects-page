@@ -23,5 +23,12 @@ export default {
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/ninjafood-tailwind',
             pageLink: 'https://chewzzz-ninjafood-tailwind.netlify.app/'
         },
+        {
+            name: 'Tailwind Card',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/frontend-2.png',
+            desc: 'Responsive card item created using HTML and Tailwind.',
+            srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/tailwind-card',
+            pageLink: 'https://chewzzz-tailwind-card.netlify.app/'
+        },
     ]
 }

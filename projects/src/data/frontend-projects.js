@@ -30,5 +30,12 @@ export default {
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/tailwind-card',
             pageLink: 'https://chewzzz-tailwind-card.netlify.app/'
         },
+        {
+            name: 'Responsive Form',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/frontend-3.png',
+            desc: 'Simple, responsive form created using HTML and Tailwind.',
+            srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/simple-form',
+            pageLink: 'https://chewzzz-simple-form.netlify.app/'
+        },
     ]
 }

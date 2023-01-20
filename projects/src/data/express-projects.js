@@ -5,14 +5,14 @@ const projects = {
         {
             name: 'Exercise Tracker',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-1.png',
-            desc: 'Created users, add and filtering exercise logs. Created using Express and MongoDB.',
+            desc: 'Create users, add and filtering exercise logs. Made with Express and MongoDB.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/Exercise-Tracker',
             pageLink: 'https://exercise-tracker-express.onrender.com/',
         },
         {
             name: 'File Metadata Microservice',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@edf37b82f0882546aa161cf4a3cd474334c3d19e/projects/src/images/express-2.png',
-            desc: '',
+            desc: 'Provide information about the file uploaded.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/File-Metadata-Microservice',
             pageLink: 'https://chewzzz-file-metadata-microservice.onrender.com/',
         },
@@ -33,14 +33,14 @@ const projects = {
         {
             name: 'URL Shortener Microservice',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-5.png',
-            desc: 'Convert URL to short url. Created using Express and MongoDB.',
+            desc: 'Convert URL to short url. Made Express and MongoDB.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/URL-Shortener-Microservice',
             pageLink: 'https://chewzzz-url-shortener-microservice.onrender.com',
         },
         {
             name: 'Node Passport Authentication',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/express-6.png',
-            desc: 'Boilerplate for authentication and session in Express project. Created using Express, MongodDB and EJS.',
+            desc: 'Boilerplate for authentication and session in Express project.Made with Express, MongodDB and EJS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/node-passport-authentication',
             pageLink: 'https://chewzzz-node-passport-authentication.onrender.com',
         },

@@ -1,4 +1,4 @@
-export default {
+const projects = {
     name: 'Frontend Projects',
     icons: [''],
     project: [
@@ -37,5 +37,14 @@ export default {
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/simple-form',
             pageLink: 'https://chewzzz-simple-form.netlify.app/'
         },
+        {
+            name: 'Responsive Form',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/frontend-4.png',
+            desc: 'Responsive wesbite created using HTML and Tailwind. Learning CSS animation.',
+            srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/tailwind-tutorial/rockets-acme',
+            pageLink: 'https://chewzzz-rockets-acme.netlify.app/'
+        },
     ]
 }
+
+export default projects

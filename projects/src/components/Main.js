@@ -13,7 +13,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 
 // react components and logo
-import projectData from '../data/projects'
+import projectData from '../data/projects/projects'
 import { BsArrowUpRight } from 'react-icons/bs';
 import { MdOutlineExpandMore } from 'react-icons/md';
 import { DiHtml5 } from 'react-icons/di';

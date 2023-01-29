@@ -1,4 +1,4 @@
-export default {
+const projects = {
     name: 'UX Design Projects',
     icons: [''],
     project: [
@@ -20,3 +20,5 @@ export default {
         },
     ]
 }
+
+export default projects

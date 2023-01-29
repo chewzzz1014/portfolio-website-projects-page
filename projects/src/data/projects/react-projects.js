@@ -1,4 +1,4 @@
-export default {
+const projects = {
     name: 'React Projects',
     icons: [''],
     project: [
@@ -74,3 +74,5 @@ export default {
         }
     ]
 }
+
+export default projects

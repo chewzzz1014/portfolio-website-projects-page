@@ -33,6 +33,8 @@ const skills = {
 
     'markdown': 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg',
 
+    'bulma': 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg'
+
 }
 
 export default skills

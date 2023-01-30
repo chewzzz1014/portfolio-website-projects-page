@@ -14,6 +14,7 @@ import Button from '@mui/material/Button';
 
 // react components and logo
 import projectData from '../data/projects/projects'
+import skills from '../data/icons/skills-icons';
 import { BsArrowUpRight } from 'react-icons/bs';
 import { MdOutlineExpandMore } from 'react-icons/md';
 
@@ -63,6 +64,9 @@ export const dataElements = projectData.map((ele, idx) => {
                                             <Typography gutterBottom variant="h5" component="div" style={{ textAlign: 'center' }}>
                                                 <b>{p.name}</b>
                                             </Typography>
+                                            {p.skills && p.skills.map(s =>
+                                                <img src={skills[s]} />
+                                            )}
                                             <Typography variant="body2" color='black' style={{ textAlign: 'justify' }}>
                                                 {p.desc}
                                             </Typography>

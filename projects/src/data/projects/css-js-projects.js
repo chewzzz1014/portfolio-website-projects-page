@@ -8,6 +8,7 @@ const projects = {
             desc: 'Paint on boxed canvas by hovering on them. Created using HTML, CSS and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
             pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
+            skills: ["html", "css", "javascript"]
         },
         {
             name: 'Color Generator',

@@ -8,7 +8,7 @@ const projects = {
             desc: 'Paint on boxed canvas by hovering on them. Created using HTML, CSS and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
             pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
-            skills: ["html", "css", "javascript", 'boostrap']
+            skills: ["html", "css", "javascript", 'boostrap'],
         },
         {
             name: 'Color Generator',
@@ -16,6 +16,7 @@ const projects = {
             desc: 'Generate card with random colour. Created using HTML, Boostrap and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/color_generator',
             pageLink: 'https://chewzzz-color-generator.netlify.app/',
+            skills: ["html", "css", "javascript", 'boostrap'],
         },
         {
             name: 'Counter',
@@ -23,6 +24,7 @@ const projects = {
             desc: 'A simple responsive counter. Created using HTML, Boostrap and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/counter',
             pageLink: 'https://chewzzz-counter.netlify.app/',
+            skills: ["html", "css", "javascript", 'boostrap'],
         },
         {
             name: 'Leave Your Comment',
@@ -30,54 +32,62 @@ const projects = {
             desc: 'Create comment card using form inputs from user. Created using HTML, Boostrap and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/form_events',
             pageLink: 'https://chewzzz-form-events.netlify.app/',
+            skills: ["html", "css", "javascript", 'boostrap'],
         },
         {
             name: 'Jokes Generator',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-5.png',
             desc: 'Fetch random dad jokes from API using axios. Created using HTML and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/jokes_api',
+            skills: ["html", "javascript"],
         },
         {
             name: 'TV Show API',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-11.png',
             desc: 'Fetch TV shows by genres from API using axios. Created using HTML and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/tvShow_api',
-            pageLink: 'https://chewzzz-tvshow-api.netlify.app/'
+            pageLink: 'https://chewzzz-tvshow-api.netlify.app/',
+            skills: ["html", "javascript"],
         },
         {
             name: 'Pokemon Icons',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-7.png',
             desc: 'Generate 100 pokemon icons using JS DOM and Boostrap.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/pokemon_icon',
-            pageLink: 'https://chewzzz-pokemon-icon.netlify.app/'
+            pageLink: 'https://chewzzz-pokemon-icon.netlify.app/',
+            skills: ["html", "javascript"],
         },
         {
             name: 'Rock Paper Scissors',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@ed5cd87d783affd025bd23da9d85a4d0513cab12/projects/src/images/js-8.png',
             desc: 'Rock, paper and scissors game. Created using HTML, CSS, Boostrap and JS Dom. One of projects for The Odin Project Web Development Course.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/rock_paper_scissors',
-            pageLink: 'https://chewzzz-rock-paper-scissors.netlify.app/'
+            pageLink: 'https://chewzzz-rock-paper-scissors.netlify.app/',
+            skills: ["html", "css", "javascript", 'boostrap'],
         },
         {
             name: 'Score Keeper',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@23fb878b0b0daa768f5db8871b0f1c2dbf874009/projects/src/images/js-9.png',
             desc: 'A simple game score counter. Created using HTML, Bulma and JS Dom.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/score_keeper',
-            pageLink: 'https://chewzzz-score-keeper.netlify.app/'
+            pageLink: 'https://chewzzz-score-keeper.netlify.app/',
+            skills: ["html", "css", "javascript", 'bulma'],
         },
         {
             name: 'Calculator',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@23fb878b0b0daa768f5db8871b0f1c2dbf874009/projects/src/images/js-10.png',
             desc: 'A simple responsive calculator. Created using HTML, CSS, Boostrap and JS Dom. One of projects for The Odin Project Web Development Course.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_calculator',
-            pageLink: 'https://chewzzz-top-calculator.netlify.app/'
+            pageLink: 'https://chewzzz-top-calculator.netlify.app/',
+            skills: ["html", "css", "javascript", 'boostrap'],
         },
         {
             name: 'Recipe Page',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-12.png',
             desc: 'My first project of The Odin Project Web Development Course. Created using HTML, CSS and JS.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_recipe',
-            pageLink: 'https://chewzzz-top-recipe.netlify.app/'
+            pageLink: 'https://chewzzz-top-recipe.netlify.app/',
+            skills: ["html", "css", "javascript"],
         },
         {
             name: 'Boostrap Form',
@@ -85,6 +95,7 @@ const projects = {
             desc: 'Created a simple responsive boostrap form without CSS.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/bootstrap_form',
             pageLink: 'https://chewzzz-boostrap-form.netlify.app/',
+            skills: ["html", 'boostrap'],
         },
     ]
 }

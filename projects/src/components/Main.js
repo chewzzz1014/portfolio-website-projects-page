@@ -16,8 +16,6 @@ import Button from '@mui/material/Button';
 import projectData from '../data/projects/projects'
 import { BsArrowUpRight } from 'react-icons/bs';
 import { MdOutlineExpandMore } from 'react-icons/md';
-import { DiHtml5 } from 'react-icons/di';
-import { Shake } from 'reshake'
 
 const buttonStyle = {
     border: 'none',

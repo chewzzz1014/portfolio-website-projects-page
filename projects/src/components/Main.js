@@ -65,7 +65,7 @@ export const dataElements = projectData.map((ele, idx) => {
                                                 <b>{p.name}</b>
                                             </Typography>
                                             {p.skills && p.skills.map(s =>
-                                                <img src={skills[s]} />
+                                                <img src={skills[s]} className='skill-icon' />
                                             )}
                                             <Typography variant="body2" color='black' style={{ textAlign: 'justify' }}>
                                                 {p.desc}

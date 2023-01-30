@@ -140,6 +140,12 @@ footer {
   justify-content: space-between;
 }
 
+.skill-icon-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
 .skill-icon {
   height: 30px;
   width: 30px;

@@ -64,9 +64,11 @@ export const dataElements = projectData.map((ele, idx) => {
                                             <Typography gutterBottom variant="h5" component="div" style={{ textAlign: 'center' }}>
                                                 <b>{p.name}</b>
                                             </Typography>
-                                            {p.skills && p.skills.map(s =>
-                                                <img src={skills[s]} className='skill-icon' alt={s} />
-                                            )}
+                                            <div className='skill-icon-container'>
+                                                {p.skills && p.skills.map(s =>
+                                                    <img src={skills[s]} className='skill-icon' alt={s} />
+                                                )}
+                                            </div>
                                             <Typography variant="body2" color='black' style={{ textAlign: 'justify' }}>
                                                 {p.desc}
                                             </Typography>

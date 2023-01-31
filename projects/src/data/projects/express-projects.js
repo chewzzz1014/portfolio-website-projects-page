@@ -1,6 +1,5 @@
 const projects = {
     name: 'Express Project',
-    icons: [],
     project: [
         {
             name: 'Exercise Tracker',

@@ -1,6 +1,5 @@
 const projects = {
     name: 'UX Design Projects',
-    icons: [''],
     project: [
         {
             name: 'Trailer Browsing Mobile Application',

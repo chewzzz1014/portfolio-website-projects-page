@@ -1,6 +1,5 @@
 const projects = {
     name: 'Data Analyst Projects',
-    icons: [''],
     project: [
         {
             name: 'Anime Recommendations and Ratings',

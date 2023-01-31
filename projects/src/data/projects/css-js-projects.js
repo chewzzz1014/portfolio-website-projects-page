@@ -1,6 +1,5 @@
 const projects = {
     name: 'HTML, CSS and JavaScript DOM Projects',
-    icons: ['DiHtml5'],
     project: [
         {
             name: 'Etch-a-Sketch',

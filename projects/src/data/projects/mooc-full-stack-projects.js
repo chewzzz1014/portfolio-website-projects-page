@@ -1,6 +1,5 @@
 const projects = {
     name: 'Full Stack open 2022 Course by University of Helsinki MOOC Center',
-    icons: [''],
     project: [
         {
             name: 'Anecdotes',

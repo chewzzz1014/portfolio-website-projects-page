@@ -1,6 +1,5 @@
 const projects = {
     name: 'React Projects',
-    icons: [''],
     project: [
         {
             name: 'Airbnb Clone',

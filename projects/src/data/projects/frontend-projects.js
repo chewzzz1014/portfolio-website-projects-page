@@ -1,6 +1,5 @@
 const projects = {
     name: 'Frontend Projects',
-    icons: [''],
     project: [
         {
             name: 'Museum of Candy',

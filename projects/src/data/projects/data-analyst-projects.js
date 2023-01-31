@@ -1,4 +1,4 @@
-export default {
+const projects = {
     name: 'Data Analyst Projects',
     icons: [''],
     project: [
@@ -55,3 +55,5 @@ export default {
         },
     ]
 }
+
+export default projects

@@ -5,10 +5,10 @@ const projects = {
         {
             name: 'Etch-a-Sketch',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-1.png',
-            desc: 'Paint on boxed canvas by hovering on them. Created using HTML, CSS and JS Dom.',
+            desc: 'Paint on boxed canvas by hovering on them. Created using HTML, CSS, JS DOM and Boostrap.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/Etch-A-Sketch',
             pageLink: 'https://chewzzz-etch-a-sketch.netlify.app/',
-            skills: ["html", "css", "javascript"],
+            skills: ["html", "css", "javascript, boostrap"],
         },
         {
             name: 'Color Generator',
@@ -44,7 +44,7 @@ const projects = {
         {
             name: 'TV Show API',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-11.png',
-            desc: 'Fetch TV shows by genres from API using axios. Created using HTML and JS Dom.',
+            desc: 'Fetch TV shows by genres from API using axios. Created using HTML and JS DOM.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/tvShow_api',
             pageLink: 'https://chewzzz-tvshow-api.netlify.app/',
             skills: ["html", "javascript"],
@@ -60,7 +60,7 @@ const projects = {
         {
             name: 'Rock Paper Scissors',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page@ed5cd87d783affd025bd23da9d85a4d0513cab12/projects/src/images/js-8.png',
-            desc: 'Rock, paper and scissors game. Created using HTML, CSS, JS Dom and Boostrap. One of projects for The Odin Project Web Development Course.',
+            desc: 'Rock, paper and scissors game. Created using HTML, CSS, JS DOM and Boostrap. One of projects for The Odin Project Web Development Course.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/rock_paper_scissors',
             pageLink: 'https://chewzzz-rock-paper-scissors.netlify.app/',
             skills: ["html", "css", "javascript", 'boostrap'],
@@ -84,10 +84,10 @@ const projects = {
         {
             name: 'Recipe Page',
             imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/js-12.png',
-            desc: 'My first project of The Odin Project Web Development Course. Created using HTML, CSS and JS.',
+            desc: 'My first project of The Odin Project Web Development Course. Created using HTML and CSS.',
             srcLink: 'https://github.com/chewzzz1014/css-javascript-projects/tree/master/top_recipe',
             pageLink: 'https://chewzzz-top-recipe.netlify.app/',
-            skills: ["html", "css", "javascript"],
+            skills: ["html", "css"],
         },
         {
             name: 'Boostrap Form',

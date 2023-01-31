@@ -8,6 +8,7 @@ const projects = {
             desc: 'Responsive airbnb clone. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/airbnb-clone',
             pageLink: 'https://chewzzz-airbnb-clone.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Digital Business Card',
@@ -15,6 +16,7 @@ const projects = {
             desc: 'Responsive personal business card. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/digital-business-card',
             pageLink: 'https://chewzzz-digital-business-card.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Meme Generator',
@@ -22,6 +24,7 @@ const projects = {
             desc: 'A fun meme generator with customised caption. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/meme-generator',
             pageLink: 'https://chewzzz-meme-generator.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Random Quote Machine',
@@ -29,6 +32,7 @@ const projects = {
             desc: 'Generate random positive quote with random background colour. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/random-quote-machine',
             pageLink: 'https://chewzzz-quote-machine.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'React Fact',
@@ -36,6 +40,7 @@ const projects = {
             desc: 'My first React project. A static React fact website with toggleable dark theme and light theme. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/React-Fact',
             pageLink: 'https://chewzzz-react-fact.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'React Form',
@@ -43,6 +48,7 @@ const projects = {
             desc: 'Simple react form that displays user inputs. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/react-form',
             pageLink: 'https://chewzzz-react-form.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Rolling Dice',
@@ -50,6 +56,7 @@ const projects = {
             desc: 'A simple dices rolling game. Rolling dices until all dices are of same digit. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/tenzies-game',
             pageLink: 'https://chewzzz-rolling-dice.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Travel Journal',
@@ -57,6 +64,7 @@ const projects = {
             desc: 'Responsive travel location website created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/travel-journal',
             pageLink: 'https://chewzzz-travel-journal.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Expense Tracker',
@@ -64,6 +72,7 @@ const projects = {
             desc: 'Simple expense tracker app created with React and CSS. User can add and delete transaction history items.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/expense-tracker',
             pageLink: 'https://chewzzz-expense-tracker-react.netlify.app/',
+            skills: ["react", "css"],
         },
         {
             name: 'Quizzical Game',
@@ -71,6 +80,7 @@ const projects = {
             desc: 'Fetch quizzes of various domains using API for creating this simple Quizzial game. Created using React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/quizzical-app',
             pageLink: 'https://chewzzz-quizzical-game.netlify.app/',
+            skills: ["react", "css"],
         }
     ]
 }

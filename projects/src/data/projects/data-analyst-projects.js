@@ -10,7 +10,7 @@ const projects = {
             pageLink: '',
             externalSite: 'Kaggle',
             externalLink: 'https://www.kaggle.com/code/chewziqing/anime-data-set/notebook',
-            skills: ['python', 'pandas']
+            skills: ['python', 'pandas', 'jupyter']
         },
         {
             name: 'Netflix Original Films and IMDB Scores',
@@ -18,7 +18,7 @@ const projects = {
             desc: 'Perform data cleaning, EDA and visualization on the movies IMDB Scores dataset from Kaggle using Pandas library. Course project for the course Data Analysis with Python: Zero to Pandas',
             srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/movies-imdb/project-imdb-score.ipynb',
             pageLink: '',
-            skills: ['python', 'pandas']
+            skills: ['python', 'pandas', 'jupyter']
         },
         {
             name: 'Cryptocurrencies Prices Visulization',
@@ -26,7 +26,7 @@ const projects = {
             desc: 'Visualize cryptocurrencies prices from public API and download them as Excel files using Pandas library.',
             srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/blob/master/cryptocurrencies-prices/cryptocurrencies-prices.ipynb',
             pageLink: '',
-            skills: ['python', 'pandas']
+            skills: ['python', 'pandas', 'jupyter']
         },
         {
             name: 'Mean Variance Standard Deviation Calculator',
@@ -42,7 +42,7 @@ const projects = {
             desc: 'Extracting demographic information based on analysis on the given dataset using Pandas library. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
             srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Demographic-Data-Analyzer',
             pageLink: '',
-            skills: ['python', 'pandas']
+            skills: ['python', 'pandas', 'jupyter']
         },
         {
             name: 'Medical Data Visualizer',
@@ -50,7 +50,7 @@ const projects = {
             desc: 'Visualising and make calculations from medical examination data using Matplotlib, Seaborn, and Pandas library. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
             srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Medical-Data-Visualizer',
             pageLink: '',
-            skills: ['python', 'pandas']
+            skills: ['python', 'pandas', 'jupyter']
         },
         {
             name: 'Pages View Time Series Visualizer',
@@ -58,7 +58,7 @@ const projects = {
             desc: 'Visualize time series data of number of page views each day on the freeCodeCamp.org forum for a given period. One of the graduation projects required for Data Analysis with Python course on Free Code Camp',
             srcLink: 'https://github.com/chewzzz1014/data-analysts-projects/tree/master/freeCodeCamp/Page-View-Time-Series-Visualizer',
             pageLink: '',
-            skills: ['python', 'pandas']
+            skills: ['python', 'pandas', 'jupyter']
         },
     ]
 }

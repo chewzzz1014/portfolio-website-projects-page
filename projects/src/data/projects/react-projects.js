@@ -55,7 +55,7 @@ const projects = {
             desc: 'A simple dices rolling game. Rolling dices until all dices are of same digit. Created with React and CSS.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/tenzies-game',
             pageLink: 'https://chewzzz-rolling-dice.netlify.app/',
-            skills: ["react", "css"],
+            skills: ["react", "css", "npm"],
         },
         {
             name: 'Travel Journal',
@@ -87,7 +87,7 @@ const projects = {
             desc: 'Test your markdown!',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/markdown-previewer',
             pageLink: 'https://chewzzz-markdown-previewer.netlify.app/',
-            skills: ["react", "css", 'tailwind', ''],
+            skills: ["react", "css", 'tailwind', 'npm'],
         }
     ]
 }

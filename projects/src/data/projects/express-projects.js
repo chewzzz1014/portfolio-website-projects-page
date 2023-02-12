@@ -15,7 +15,7 @@ const projects = {
             desc: 'Provide information about the file uploaded.',
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/File-Metadata-Microservice',
             pageLink: 'https://chewzzz-file-metadata-microservice.onrender.com/',
-            skills: ['express', 'node'],
+            skills: ['express', 'node', 'npm'],
         },
         {
             name: 'Request Header Parser Microservice',

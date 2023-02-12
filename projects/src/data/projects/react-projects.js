@@ -80,6 +80,14 @@ const projects = {
             srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/quizzical-app',
             pageLink: 'https://chewzzz-quizzical-game.netlify.app/',
             skills: ["react", "css"],
+        },
+        {
+            name: 'Markdown Previewer',
+            imgLink: 'https://cdn.jsdelivr.net/gh/chewzzz1014/portfolio-website-projects-page/projects/src/images/react-11.png',
+            desc: 'Test your markdown!',
+            srcLink: 'https://github.com/chewzzz1014/JS-Frameworks-Projects/tree/master/markdown-previewer',
+            pageLink: 'https://chewzzz-markdown-previewer.netlify.app/',
+            skills: ["react", "css", 'tailwind', ''],
         }
     ]
 }
